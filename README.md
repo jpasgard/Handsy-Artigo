@@ -1,7 +1,7 @@
 ## Handsy
 Handsy é uma Startup que iniciou no curso de Ciência da Computação do Centro Universitário de João Pessoa(UNIPÊ), composta por estudantes que perceberam a necessidade da sociedade para conectar-se com os objetos que os cercam. A Handsy propõe uma maneira fácil e rápida para estabelecer essa conectividade, primeiro disponibilizando um dispositivo (Handsy) que vem acompanhado de um QR Code na embalagem onde os usuários poderão parear com o aplicativo de gerenciamento do dispositivo, no qual será necessário realizar um pré cadastro para ter acesso. Efetuando o login, os usuários poderão gerenciar seus objetos de forma remota.
 
-## Handsy Doc
+## Handsy Documentos
 Este modelo descreve as instruções de escrita de um relato de experiência do Projeto Integrador dos cursos da UBTech TI para a publicação em conferências, jornais e revistas seguindo as regras e padrões orientados pela Sociedade Brasileira de Computação (SBC). No resumo deve estar contido o problema tratado, o objetivo principal do trabalho, o método utilizado e os resultados obtidos. Recomenda-se não ultrapassar as 10 linhas no resumo no idioma português e no idioma em inglês.
 
 ## Modelo de Negócio
